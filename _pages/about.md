@@ -21,7 +21,7 @@ I am a Ph.D. student in the <a href="http://www.cs.zju.edu.cn/">college of Compu
 I also obtained a Bachelor's degree in Software Engineering from Zhejiang University.
 
 My research primarily focuses on graph data mining and large-scale graph neural networks. 
-I have published several papers <a href='https://scholar.google.com/citations?user=FT8SBIkAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLuckyTiger123%2FLuckyTiger123.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in top international AI conferences such as ICML, NeurIPS, and ICLR.
+I have published several papers in top international AI conferences such as ICML, NeurIPS, and ICLR.
 We aim to solve fundamental problems in graph neural networks with elegant and innovative methods. For example, our proposed DropMessage unifies random dropping methods on graphs and won the <a href="https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards-1.pdf">Distinguished Paper Award</a> at AAAI 2023.
 We have also pioneered the introduction of prompt tuning techniques in graph neural networks, and the subsequent research won the Best Paper Award at KDD 2023.
 
