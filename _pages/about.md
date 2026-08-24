@@ -17,27 +17,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the <a href="http://www.cs.zju.edu.cn/">college of Computer Science and Technology</a> at <a href="https://www.zju.edu.cn/">Zhejiang University</a>, advised by Prof. <a href="http://yangy.org/">Yang Yang</a>. 
-I also obtained a Bachelor's degree in Software Engineering from Zhejiang University.
+I received my Ph.D. in Computer Science from the <a href="http://www.cs.zju.edu.cn/">College of Computer Science and Technology</a> at <a href="https://www.zju.edu.cn/">Zhejiang University</a> in June 2026, under the supervision of Prof. <a href="http://yangy.org/">Yang Yang</a>. I also received my Bachelor's degree in Software Engineering from Zhejiang University.
 
-My research primarily focuses on graph data mining and large-scale graph neural networks. 
-I have published several papers <a href="https://scholar.google.com/citations?user=FT8SBIkAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in top international AI conferences such as ICML, NeurIPS, and ICLR.
-We aim to solve fundamental problems in graph neural networks with elegant and innovative methods. For example, our proposed DropMessage unifies random dropping methods on graphs and won the <a href="https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards-1.pdf">Distinguished Paper Award</a> at AAAI 2023.
-We have also pioneered the introduction of prompt tuning techniques in graph neural networks, and our method has inspired numerous advanced works.
+During my Ph.D., my research primarily focused on graph data mining and large-scale graph neural networks. I published several papers at leading international AI conferences, including ICML, NeurIPS, and ICLR. <a href="https://scholar.google.com/citations?user=FT8SBIkAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> My work received the <a href="https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards-1.pdf">Distinguished Paper Award</a> at AAAI 2023, and I was also the youngest-ever winner of the WAIC Youth Outstanding Paper Nomination Award. I enjoy exploring frontier research problems from novel and unconventional perspectives.
 
-Currently, I am researching the synergistic interaction between large language models and graph data, applying it to complex real-world scenarios. I am also seeking job opportunities in AI startups. If you're interested in my work or know of any suitable positions, please feel free to contact me.
+After completing my Ph.D., I founded <a href="https://demos.ispark.world/">ISpark</a> with a group of like-minded partners. At ISpark, we focus on next-generation AI digital content creation, spanning AI video and dynamic 3D worlds. We are developing the ISpark Fusion Model for more flexible and accessible video generation, while exploring foundational representations and models for dynamic 3D content.
 
+If you are interested in what we do, please feel free to contact me at <a href="mailto:luckytiger@ispark.world">luckytiger@ispark.world</a>.
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Our paper KAA is accepted by ICLR'25.
+- *2026.07*: &nbsp;🎉🎉 I founded ISpark with a group of amazing partners. A brand-new chapter begins!
+- *2026.06*: &nbsp;🎉🎉 I received my Ph.D. in Computer Science from Zhejiang University. Many thanks to Prof. Yang Yang for his guidance and support!
 
 # 🎖 Honors and Awards
 - AAAI 2023 Distinguished Paper Award (Rank 1st)
-- WAIC 2023 Youth Outstanding Paper Nomination Award (Youngest Ever Winner) 
+- WAIC 2023 Youth Outstanding Paper Nomination Award (Youngest-Ever Winner)
 - Chinese Institute of Electronics 2024 Outstanding Ph.D. Award
 - AI Time 2023 Top 10 Academic Presentations of the Year
 
-# 📝 Publications 
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/UniSAGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UniSAGE: Unifying Static and Dynamic Attributes with Hyper-Structure**
+\[[Paper](https://arxiv.org/abs/2607.14102), [Code](https://github.com/zjunet/UniSAGE)\]
+
+**Taoran Fang**, Yan Deng, Chunping Wang, Yang Wang, Lei Chen, Yang Yang
+
+We seamlessly integrate dynamic and static representations, enabling them to collaborate effectively while preserving their distinct characteristics.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/KAA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,9 +113,9 @@ Our proposed DropMessage unifies random dropping methods on graphs, and it allev
 
 # 📖 Educations
 
-- *2021.09 - now*, Ph.D. in Computer Science and Technology, Zhejiang University, Hangzhou, Zhejiang.
+- *2021.09 - 2026.06*, Ph.D. in Computer Science and Technology, Zhejiang University, Hangzhou, Zhejiang.
 - *2017.09 - 2021.06*, Bachelor in Software Engineering, Zhejiang University, Hangzhou, Zhejiang.
-- *2014.09 - 2017.06*, Hangzhou No.2 High School, Zhejiang University, Hangzhou, Zhejiang.
+- *2014.09 - 2017.06*, Hangzhou No.2 High School, Hangzhou, Zhejiang.
 
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
